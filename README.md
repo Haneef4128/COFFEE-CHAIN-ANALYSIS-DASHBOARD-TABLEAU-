@@ -1,5 +1,5 @@
 # COFFEE-CHAIN-ANALYSIS-DASHBOARD-USING-TABLEAU-
-∗ Conducted comprehensive analysis of a coffee chain’s performance using Tableau.
+∗ Conducted comprehensive analysis of a coffee chain’s performance using Tableau.		
 ∗ Analyzed dataset consisting of FactTable, LocationTable, and ProductTable with 13 columns and 4200 rows.
 ∗ Developed a comprehensive dashboard to provide overview of performance metrics such as profit, sales, and
 inventory status.
